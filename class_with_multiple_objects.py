@@ -1,0 +1,11 @@
+class Demo():
+    def addition(self,a,b):
+        print(a+b)
+    def subtraction(self,a,b):
+        print(a-b)
+    def multiplication(self,a,b):
+        print(a*b)
+d1.Demo()
+d1.addition(10,20)
+d1.subtraction(40,10)
+d1.multiply(3,10)
